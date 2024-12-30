@@ -13,6 +13,11 @@ The app should work similar to [https://www.turtlee.in/voice](https://www.turtle
 ![image](https://github.com/user-attachments/assets/0b29a9c3-af33-44eb-ac50-0ca07c1a0bf7)
 
 
+## Dataset
+
+The dataset consists of summaries of SEC filings along with some metadata. RAG must be implemented on top of summaries.
+
+Link to dataset: [Click Here](https://docs.google.com/spreadsheets/d/1HWWh31cAdn3nB_Ms89fZthU8C3u_YJhtXf3NhBtT9tQ/edit?usp=sharing)
 
 ## Technical Requirements
 
