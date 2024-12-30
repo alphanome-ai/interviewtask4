@@ -34,7 +34,7 @@ Link to dataset: [Click Here](https://docs.google.com/spreadsheets/d/1HWWh31cAdn
 - Create RAG pipeline from the provided summary database
 - Integrate with an LLM API for response generation
 - Include a fallback text interface
-- App should work for 1 user flawlessly
+- App should work for **1 user** flawlessly
 
 ### Quality Standards
 - Write clean, well-documented code
